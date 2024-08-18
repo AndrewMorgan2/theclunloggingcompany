@@ -12,6 +12,14 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.mainClass{
+  float: left;
+  display: flex;
+}
+
+.textMainClass{
+
+}
 
 .App-header {
   background-color: white;
@@ -22,6 +30,14 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+h2 {
+  color: #432910;
+  text-align: 'center';
+  display: 'flex';
+  justify-content: 'center';
+  align-items: 'center';
+  height: '100%'
 }
 
 .App-link {
